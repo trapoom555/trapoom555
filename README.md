@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trapoom555&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@trapoom555)
+[![wakatime](https://wakatime.com/badge/user/c80e6a33-0565-4a98-9dba-596c62e7f33f.svg)](https://wakatime.com/@c80e6a33-0565-4a98-9dba-596c62e7f33f)
 <!--
 **trapoom555/trapoom555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
