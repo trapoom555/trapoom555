@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Trapoom**, from Chiang Mai, Thailand. I'm currently pursuing a Master's in Computer Science at Tsinghua University. My interests lie in **Machine Learning** and **CS-related topics**. During my studies, I've worked on fascinating projects, including [GradeADreamer: text-to-3D generation](https://github.com/trapoom555/GradeADreamer) and [LLM text embedding](https://github.com/trapoom555/Language-Model-STS-CFT). I'm always open to collaboration, so feel free to reach out to me! 😄
+I'm **Trapoom**, originally from Chiang Mai, Thailand. I'm currently pursuing a Master's in Computer Science at Tsinghua University. My interests lie in **Machine Learning** and **CS-related topics**. During my studies, I've worked on fascinating projects, including [text-to-3D generation](https://github.com/trapoom555/GradeADreamer) and [LLM text embedding](https://github.com/trapoom555/Language-Model-STS-CFT). I'm always open to collaboration, so feel free to reach out to me! 😄
 
 - 🔭 I’m currently working on: AI scientist intern at SCB DataX 🐳, LLMs hallucination research
 - 🌱 I’m currently learning: Machine learning system design
